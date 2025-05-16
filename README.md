@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I am a data science professional with strong foundations in machine learning, programming, and analytics, complemented by extensive experience in education and leadership. I have a proven track record of solving complex problems, communicating technical concepts, and driving measurable results. I'm skilled in Python, R, and SQL with hands-on experience in regression, classification, and neural networks. I have experience combining analytical expertise with demonstrated abilities in project management and team leadership.
 
 <!--
 **ngentile01/ngentile01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
